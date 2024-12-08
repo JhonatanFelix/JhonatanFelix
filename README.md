@@ -5,7 +5,7 @@
 <p align="justify"> Passionate about mathematical models, biology and explanations of the unexplainable.
     <br>
     <br>
-    I am currently looking to improve my skills as a programmer and data scientist. I have a degree in biotechnology, as a technician, and a bachelor's degree in mathematics, I have worked in science since I was 24 years old. My goal is to explore the intersections between mathematical modeling and data, creating scalable solutions, optimized problem resolutions and super creative approaches!
+    I am currently looking to improve my skills as a programmer and data scientist. I have a degree in biotechnology, as a technician, and a bachelor's degree in mathematics, I have worked in science since I was 15 years old. My goal is to explore the intersections between mathematical modeling and data, creating scalable solutions, optimized problem resolutions and super creative approaches!
     <br>
     <br>
     I have a great affection for data management and optimization methodologies (known as data engineering), and I am always studying new approaches to improve my understanding of the general processes that involve data studies. I want to have a positive impact on the world through studies and group collaboration!
